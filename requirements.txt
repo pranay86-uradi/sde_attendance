@@ -1,0 +1,8 @@
+Flask==2.3.3
+flask-cors==4.0.0
+boto3==1.34.89
+PyJWT==2.8.0
+requests==2.31.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+face_recognition==1.3.0
